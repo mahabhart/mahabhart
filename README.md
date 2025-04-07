@@ -1,4 +1,4 @@
-# Job Portal
+# Job Portal mahabhart
 #### A desktop App,full implementation using oops and mysql and algorithms,that helps job seekers and job providers 
 
 ## To run this project:
